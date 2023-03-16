@@ -1,0 +1,23 @@
+{
+  "name": "js-asincronismo-proyecto",
+  "version": "1.0.0",
+  "description": "Este es un proyecto para un caso de uso de asincronismo con apis",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinooo3/js-asincronismo-proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinooo3/js-asincronismo-proyecto/issues"
+  },
+  "homepage": "https://github.com/kevinooo3/js-asincronismo-proyecto#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
